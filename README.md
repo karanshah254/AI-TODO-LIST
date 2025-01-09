@@ -5,5 +5,5 @@
 2. Fully responsive NEXTJS project
 
 ### Steps to use
-1. Go to this (https://docs.copilotkit.ai/tutorials/ai-todo-app/overview)[URL]
+1. Go to this [CopilotKit Page](https://docs.copilotkit.ai/tutorials/ai-todo-app/overview)
 2. Follow step by step guidelines to build the same"# AI-TODO-LIST" 
