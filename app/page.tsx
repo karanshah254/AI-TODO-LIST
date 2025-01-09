@@ -8,7 +8,7 @@ import "@copilotkit/react-ui/styles.css";
 
 export default function Home() {
   return (
-    <CopilotKit publicApiKey="ck_pub_78b3a2e240f2fb368a9a6214e5c6b288">
+    <CopilotKit publicApiKey="<YOUR_PUBLIC_API_KEY>">
       <TasksProvider>
         <TasksList />
       </TasksProvider>
